@@ -77,7 +77,7 @@ public class TestCasStepPage extends ReusbleFunctions {
 	}
 
 	public void selectModuleIDTS(String w3) throws InterruptedException {
-		Thread.sleep(2000);
+		
 		List<WebElement> moduleIDDropdown = moduleIDSelect;
 		int modulesize = moduleIDDropdown.size();
 
@@ -97,9 +97,7 @@ public class TestCasStepPage extends ReusbleFunctions {
 
 	public void selectTestCaseIDTS(String w3) throws InterruptedException {
 
-		Thread.sleep(2000);
-
-		List<WebElement> TestCaseIDDropdown = testCaseIDSelect;
+				List<WebElement> TestCaseIDDropdown = testCaseIDSelect;
 		int testCasesize = TestCaseIDDropdown.size();
 
 		for (int i = 0; i < testCasesize; i++) {
@@ -117,8 +115,7 @@ public class TestCasStepPage extends ReusbleFunctions {
 
 	public void selectBIK(String w3) throws InterruptedException {
 
-		Thread.sleep(2000);
-		List<WebElement> BIKIDDropdown = buidinkeywordstype;
+			List<WebElement> BIKIDDropdown = buidinkeywordstype;
 		int BIKsize = buidinkeywordstype.size();
 
 		for (int i = 0; i < BIKsize; i++) {
@@ -138,7 +135,6 @@ public class TestCasStepPage extends ReusbleFunctions {
 
 	public void selectelement(String w3) throws InterruptedException {
 
-		Thread.sleep(2000);
 		List<WebElement> elemnetIDDropdown = elementtype;
 		int BIKsize = elementtype.size();
 
