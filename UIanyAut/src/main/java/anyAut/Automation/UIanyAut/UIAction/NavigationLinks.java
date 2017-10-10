@@ -44,8 +44,14 @@ WebElement UDK;
 
 @FindBy(linkText="Built-In Keywords")
 WebElement BIK;
+@FindBy(xpath="//a[@href='http://anyaut.com/orange/add-test-steps.php']")
+WebElement dashboardteststep;
 
 
+public void clickondashboardteststeps(){
+	
+	dashboardteststep.click();
+}
 public NavigationLinks(WebDriver driver) {
 	PageFactory.initElements(driver,this);
 }

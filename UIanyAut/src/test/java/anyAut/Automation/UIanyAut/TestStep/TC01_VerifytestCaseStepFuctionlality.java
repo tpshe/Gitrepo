@@ -29,7 +29,7 @@ public class TC01_VerifytestCaseStepFuctionlality extends ReusbleFunctions{
 			
 		@DataProvider(name="AUT")
 		public String[][] getTestData(){
-			String[][] testRecords=getData("TestAut.xlsx","TC004");
+			String[][] testRecords=getData("TestAut.xlsx","TC005");
 			return testRecords;
 		}
 		
@@ -50,8 +50,8 @@ public class TC01_VerifytestCaseStepFuctionlality extends ReusbleFunctions{
 			aut=new AUTDetailPage(driver);
 			testStep=new TestCasStepPage(driver);
 			dashboard=new DashboardPage(driver);
-			//navigation.clickonautLinks();
-			navigation.clickontesttestSteps();
+			navigation.clickondashboardteststeps();
+			//navigation.clickontesttestSteps();
 			testStep.selectfromDropDownModuleID(w3);
 			testStep.selectfromDropDownTestcaseID(w4);		
 		    testStep.enterteststepidanddesc(tsID,desc);
