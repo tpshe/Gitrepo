@@ -34,15 +34,15 @@ public class TC01_VerifytestCaseStepFuctionlality extends ReusbleFunctions{
 		}
 		
 		
-		@BeforeClass
+		@BeforeTest
 		public void setUp()
 		{
 		callURL();
-		homepage=new HomePage(driver);
+		
 		homepage.logintoApplication("tapansri@gmail.com", "orange17");
 				}
 		@Test(dataProvider="AUT")
-		public void VerifyaddTestStepFunctionality(String w3,String w4,String tsID,String desc,String bik,String w6,String desc1,String tdenter) throws Exception 
+		public void VerifyaddTestStepFunctionality(String username,String pwd,String w3,String w4,String tsID,String desc,String bik,String w6,String desc1,String tdenter) throws Exception 
 		{
 			log.info("*****Starting AUT adding test********");
 			homepage=new HomePage(driver);
@@ -50,6 +50,7 @@ public class TC01_VerifytestCaseStepFuctionlality extends ReusbleFunctions{
 			aut=new AUTDetailPage(driver);
 			testStep=new TestCasStepPage(driver);
 			dashboard=new DashboardPage(driver);
+			homepage.logintoApplication(username,pwd);
 			navigation.clickondashboardteststeps();
 			//navigation.clickontesttestSteps();
 			testStep.selectfromDropDownModuleID(w3);
@@ -62,7 +63,7 @@ public class TC01_VerifytestCaseStepFuctionlality extends ReusbleFunctions{
 			}
 		
 				
-		@AfterClass
+		@AfterTest
 		public void tearDown(){
 			driver.close();
 			
