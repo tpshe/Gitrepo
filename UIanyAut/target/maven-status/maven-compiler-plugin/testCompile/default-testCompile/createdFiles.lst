@@ -1,0 +1,3 @@
+anyAut\Automation\UIanyAut\HomePage\LoginPage\TC001_VerifyLogin.class
+anyAut\Automation\UIanyAut\HomePage\LoginPage\VerifyRegistration.class
+anyAut\Automation\UIanyAut\HomePage\LoginPage\TC003_VerifyWithDifferentData.class

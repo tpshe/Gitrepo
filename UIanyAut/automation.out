@@ -1,0 +1,667 @@
+2017-09-27 10:02:34 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:02:34 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (bd4208b63f7f0f499614df22dcd01971)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (bd4208b63f7f0f499614df22dcd01971)] -> id: username]
+2017-09-27 10:02:34 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (bd4208b63f7f0f499614df22dcd01971)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (bd4208b63f7f0f499614df22dcd01971)] -> id: password]
+2017-09-27 10:02:41 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:02:41 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:04:41 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 10:08:26 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:08:26 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (187bfb4da6455117bb2d7e7d915555b7)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (187bfb4da6455117bb2d7e7d915555b7)] -> id: username]
+2017-09-27 10:08:26 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (187bfb4da6455117bb2d7e7d915555b7)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (187bfb4da6455117bb2d7e7d915555b7)] -> id: password]
+2017-09-27 10:08:32 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:08:32 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:10:32 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 10:11:07 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:11:08 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (fbcd545f35c3cadcfd7621fc31a521e6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (fbcd545f35c3cadcfd7621fc31a521e6)] -> id: username]
+2017-09-27 10:11:08 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (fbcd545f35c3cadcfd7621fc31a521e6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (fbcd545f35c3cadcfd7621fc31a521e6)] -> id: password]
+2017-09-27 10:11:13 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:11:13 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:13:13 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 10:14:49 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:14:49 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (255fc75a8b69db86c0eb84ddfabef51d)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (255fc75a8b69db86c0eb84ddfabef51d)] -> id: username]
+2017-09-27 10:14:50 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (255fc75a8b69db86c0eb84ddfabef51d)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (255fc75a8b69db86c0eb84ddfabef51d)] -> id: password]
+2017-09-27 10:14:55 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:14:55 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:16:55 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 10:22:41 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:22:41 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (7fa2f9e78b593e7f99b5cd66ac7f44cc)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (7fa2f9e78b593e7f99b5cd66ac7f44cc)] -> id: username]
+2017-09-27 10:22:41 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (7fa2f9e78b593e7f99b5cd66ac7f44cc)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (7fa2f9e78b593e7f99b5cd66ac7f44cc)] -> id: password]
+2017-09-27 10:22:47 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:22:47 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:24:47 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 10:28:13 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:28:13 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (ed8d9cb5ee9ff9b6ad0ce67c7ef14149)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (ed8d9cb5ee9ff9b6ad0ce67c7ef14149)] -> id: username]
+2017-09-27 10:28:13 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (ed8d9cb5ee9ff9b6ad0ce67c7ef14149)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (ed8d9cb5ee9ff9b6ad0ce67c7ef14149)] -> id: password]
+2017-09-27 10:28:19 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:28:19 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:30:19 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 10:34:52 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:34:52 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (3a854df7060dd9d5432f13974a8383cb)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (3a854df7060dd9d5432f13974a8383cb)] -> id: username]
+2017-09-27 10:34:53 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (3a854df7060dd9d5432f13974a8383cb)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (3a854df7060dd9d5432f13974a8383cb)] -> id: password]
+2017-09-27 10:34:59 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:34:59 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:36:59 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 10:45:31 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:45:31 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (206994fb0319e05f0f555b20399df0be)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (206994fb0319e05f0f555b20399df0be)] -> id: username]
+2017-09-27 10:45:31 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (206994fb0319e05f0f555b20399df0be)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (206994fb0319e05f0f555b20399df0be)] -> id: password]
+2017-09-27 10:45:37 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 10:45:37 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 10:47:37 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 11:06:17 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-27 11:06:17 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (6ebe8d991dcbd26aacbaf59798aa068a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (6ebe8d991dcbd26aacbaf59798aa068a)] -> id: username]
+2017-09-27 11:06:18 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (6ebe8d991dcbd26aacbaf59798aa068a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (6ebe8d991dcbd26aacbaf59798aa068a)] -> id: password]
+2017-09-27 11:06:23 INFO  TC001_VerifyLogin:42 - *****Ending login with Different Records************
+2017-09-27 11:06:23 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-27 11:08:23 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 11:27:13 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 11:27:13 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (2c05fa90c409241f2add93b4f5d3a707)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (2c05fa90c409241f2add93b4f5d3a707)] -> id: username]
+2017-09-27 11:27:14 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (2c05fa90c409241f2add93b4f5d3a707)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (2c05fa90c409241f2add93b4f5d3a707)] -> id: password]
+2017-09-27 11:27:22 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 11:27:22 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 11:29:22 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 11:36:53 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 11:36:53 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (3c573a1f278c59ab4f782adc07545a1e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (3c573a1f278c59ab4f782adc07545a1e)] -> id: username]
+2017-09-27 11:36:55 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (3c573a1f278c59ab4f782adc07545a1e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (3c573a1f278c59ab4f782adc07545a1e)] -> id: password]
+2017-09-27 11:37:06 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 11:37:06 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 11:39:06 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 11:40:37 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 11:40:38 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (3f97c19e4ef1b6202566e68b4689f779)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (3f97c19e4ef1b6202566e68b4689f779)] -> id: username]
+2017-09-27 11:40:38 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (3f97c19e4ef1b6202566e68b4689f779)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (3f97c19e4ef1b6202566e68b4689f779)] -> id: password]
+2017-09-27 11:40:49 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 11:40:49 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 11:42:49 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 11:48:08 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 11:48:09 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (40d48a660af84f13db65f8d0792c92ac)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (40d48a660af84f13db65f8d0792c92ac)] -> id: username]
+2017-09-27 11:48:10 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (40d48a660af84f13db65f8d0792c92ac)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (40d48a660af84f13db65f8d0792c92ac)] -> id: password]
+2017-09-27 11:48:20 INFO  TC001_VerifyLogin:43 - *****Ending  test with valid email address and password *********
+2017-09-27 11:55:06 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-27 11:55:06 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (3b1d74d2dde006cd546732a00f7b0efd)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (3b1d74d2dde006cd546732a00f7b0efd)] -> id: username]
+2017-09-27 11:55:07 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (3b1d74d2dde006cd546732a00f7b0efd)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (3b1d74d2dde006cd546732a00f7b0efd)] -> id: password]
+2017-09-27 11:55:20 INFO  TC001_VerifyLogin:42 - *****Ending login with Different Records************
+2017-09-27 11:55:20 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-27 11:57:20 INFO  HomePage:84 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-27 12:39:00 INFO  TC001_VerifyLogin:38 - *****Starting a test with valid email address and password *********
+2017-09-27 12:39:00 INFO  TC001_VerifyLogin:39 - user name is :firstlast@gmail.comand password is orange2020
+2017-09-27 12:39:00 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (b75b58f547258a70829e3fbaae5ffe3c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (b75b58f547258a70829e3fbaae5ffe3c)] -> id: username]
+2017-09-27 12:39:01 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (b75b58f547258a70829e3fbaae5ffe3c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (b75b58f547258a70829e3fbaae5ffe3c)] -> id: password]
+2017-09-27 12:39:12 INFO  TC001_VerifyLogin:45 - *****Ending  test with valid email address and password *********
+2017-09-27 15:23:22 INFO  TC001_VerifyLogin:37 - *****Starting a test with valid email address and password *********
+2017-09-27 15:23:22 INFO  TC001_VerifyLogin:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-09-27 15:23:22 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (f3ca3e0e89a5a3aaee5a1482f792f87e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (f3ca3e0e89a5a3aaee5a1482f792f87e)] -> id: username]
+2017-09-27 15:23:23 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (f3ca3e0e89a5a3aaee5a1482f792f87e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (f3ca3e0e89a5a3aaee5a1482f792f87e)] -> id: password]
+2017-09-27 15:23:33 INFO  TC001_VerifyLogin:44 - *****Ending  test with valid email address and password *********
+2017-09-27 16:55:19 INFO  TC001_VerifyLogin:37 - *****Starting a test with valid email address and password *********
+2017-09-27 16:55:19 INFO  TC001_VerifyLogin:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-09-27 16:55:19 INFO  HomePage:84 - Entered username is [[ChromeDriver: chrome on XP (99fd1baa26ff9f70705015f57b6a54d3)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (99fd1baa26ff9f70705015f57b6a54d3)] -> id: username]
+2017-09-27 16:55:20 INFO  HomePage:86 - Entered password  is [[ChromeDriver: chrome on XP (99fd1baa26ff9f70705015f57b6a54d3)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (99fd1baa26ff9f70705015f57b6a54d3)] -> id: password]
+2017-09-27 16:55:27 INFO  TC001_VerifyLogin:44 - *****Ending  test with valid email address and password *********
+2017-09-27 22:04:34 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 22:04:34 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 22:04:35 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (1e9a04677e25c0643521b66ec3644204)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1e9a04677e25c0643521b66ec3644204)] -> id: username]
+2017-09-27 22:04:35 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (1e9a04677e25c0643521b66ec3644204)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1e9a04677e25c0643521b66ec3644204)] -> id: password]
+2017-09-27 22:19:10 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 22:19:10 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 22:19:10 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (d8272a7ef17db2e04b415b546f87e599)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d8272a7ef17db2e04b415b546f87e599)] -> id: username]
+2017-09-27 22:19:11 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (d8272a7ef17db2e04b415b546f87e599)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (d8272a7ef17db2e04b415b546f87e599)] -> id: password]
+2017-09-27 22:33:42 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 22:33:42 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 22:33:42 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (cb5998def62abc79bc9f00c7464a47e0)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (cb5998def62abc79bc9f00c7464a47e0)] -> id: username]
+2017-09-27 22:33:43 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (cb5998def62abc79bc9f00c7464a47e0)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (cb5998def62abc79bc9f00c7464a47e0)] -> id: password]
+2017-09-27 22:36:46 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 22:36:46 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 22:36:46 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (e2b93776021944f1a114630a451564e5)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (e2b93776021944f1a114630a451564e5)] -> id: username]
+2017-09-27 22:36:47 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (e2b93776021944f1a114630a451564e5)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (e2b93776021944f1a114630a451564e5)] -> id: password]
+2017-09-27 22:48:36 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 22:48:36 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 22:48:36 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (ad9205c43c5163480d127991f030f741)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (ad9205c43c5163480d127991f030f741)] -> id: username]
+2017-09-27 22:48:37 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (ad9205c43c5163480d127991f030f741)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (ad9205c43c5163480d127991f030f741)] -> id: password]
+2017-09-27 22:51:39 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 22:51:39 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 22:51:39 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (3c476ef4a878e1a33bb60184d3da15da)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (3c476ef4a878e1a33bb60184d3da15da)] -> id: username]
+2017-09-27 22:51:40 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (3c476ef4a878e1a33bb60184d3da15da)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (3c476ef4a878e1a33bb60184d3da15da)] -> id: password]
+2017-09-27 22:54:48 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 22:54:48 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 22:54:48 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (977bd674205dab1c628c6356552d030f)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (977bd674205dab1c628c6356552d030f)] -> id: username]
+2017-09-27 22:54:49 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (977bd674205dab1c628c6356552d030f)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (977bd674205dab1c628c6356552d030f)] -> id: password]
+2017-09-27 23:09:11 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 23:09:11 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 23:09:11 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (c18eb3bdaa6b6634a55aba4260ae805a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (c18eb3bdaa6b6634a55aba4260ae805a)] -> id: username]
+2017-09-27 23:09:12 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (c18eb3bdaa6b6634a55aba4260ae805a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (c18eb3bdaa6b6634a55aba4260ae805a)] -> id: password]
+2017-09-27 23:12:01 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 23:12:01 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 23:12:02 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (0ebfdc964ec785504eacb2c931326c37)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (0ebfdc964ec785504eacb2c931326c37)] -> id: username]
+2017-09-27 23:12:03 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (0ebfdc964ec785504eacb2c931326c37)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (0ebfdc964ec785504eacb2c931326c37)] -> id: password]
+2017-09-27 23:15:10 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 23:15:10 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 23:15:11 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (57e33a0093bbcee026a326f340f8ee10)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (57e33a0093bbcee026a326f340f8ee10)] -> id: username]
+2017-09-27 23:15:12 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (57e33a0093bbcee026a326f340f8ee10)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (57e33a0093bbcee026a326f340f8ee10)] -> id: password]
+2017-09-27 23:15:22 INFO  ReusbleFunctions:45 - *****Ending  test with valid email address and password *********
+2017-09-27 23:20:39 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-27 23:20:39 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-27 23:20:40 INFO  HomePage:87 - Entered username is [[ChromeDriver: chrome on XP (1972f19932c72fe872c745800603a968)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1972f19932c72fe872c745800603a968)] -> id: username]
+2017-09-27 23:20:41 INFO  HomePage:89 - Entered password  is [[ChromeDriver: chrome on XP (1972f19932c72fe872c745800603a968)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1972f19932c72fe872c745800603a968)] -> id: password]
+2017-09-27 23:20:52 INFO  ReusbleFunctions:42 - *****Ending  test with valid email address and password *********
+2017-09-27 23:49:08 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-27 23:49:08 INFO  HomePage:95 - Entered username is [[ChromeDriver: chrome on XP (b4646f24416aea3d7b935445fecbfa3a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (b4646f24416aea3d7b935445fecbfa3a)] -> id: username]
+2017-09-27 23:49:08 INFO  HomePage:97 - Entered password  is [[ChromeDriver: chrome on XP (b4646f24416aea3d7b935445fecbfa3a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (b4646f24416aea3d7b935445fecbfa3a)] -> id: password]
+2017-09-27 23:52:24 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-27 23:52:24 INFO  HomePage:95 - Entered username is [[ChromeDriver: chrome on XP (d8654107413fd3aa987caaf5a4b0f3b6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d8654107413fd3aa987caaf5a4b0f3b6)] -> id: username]
+2017-09-27 23:59:10 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 00:10:15 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 00:10:15 INFO  HomePage:95 - Entered username is [[ChromeDriver: chrome on XP (d0e95daa47f793a7051f9c00f84794a2)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d0e95daa47f793a7051f9c00f84794a2)] -> id: username]
+2017-09-28 00:13:09 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 00:13:09 INFO  HomePage:95 - Entered username is [[ChromeDriver: chrome on XP (68cc917a6fdbdde4b7f3c876180286b8)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (68cc917a6fdbdde4b7f3c876180286b8)] -> id: username]
+2017-09-28 00:13:09 INFO  HomePage:97 - Entered password  is [[ChromeDriver: chrome on XP (68cc917a6fdbdde4b7f3c876180286b8)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (68cc917a6fdbdde4b7f3c876180286b8)] -> id: password]
+2017-09-28 00:20:50 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 00:22:53 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 00:28:41 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 00:30:42 INFO  TC001_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 00:30:43 INFO  TC001_VerifyLogin:48 - *****Ending login with Different Records************
+2017-09-28 10:31:43 INFO  TC001_VerifyLogin:37 - *****Starting a test with valid email address and password *********
+2017-09-28 10:31:43 INFO  TC001_VerifyLogin:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-09-28 10:31:43 INFO  HomePage:95 - Entered username is [[ChromeDriver: chrome on XP (4bad8521295735518f964633920e1530)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (4bad8521295735518f964633920e1530)] -> id: username]
+2017-09-28 10:31:44 INFO  HomePage:97 - Entered password  is [[ChromeDriver: chrome on XP (4bad8521295735518f964633920e1530)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (4bad8521295735518f964633920e1530)] -> id: password]
+2017-09-28 10:31:52 INFO  TC001_VerifyLogin:44 - *****Ending  test with valid email address and password *********
+2017-09-28 10:33:06 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-09-28 10:33:06 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-09-28 10:33:06 INFO  HomePage:95 - Entered username is [[ChromeDriver: chrome on XP (519b90f63d4e3dc8048c2b392741c423)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (519b90f63d4e3dc8048c2b392741c423)] -> id: username]
+2017-09-28 10:33:07 INFO  HomePage:97 - Entered password  is [[ChromeDriver: chrome on XP (519b90f63d4e3dc8048c2b392741c423)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (519b90f63d4e3dc8048c2b392741c423)] -> id: password]
+2017-09-28 10:33:15 INFO  ReusbleFunctions:42 - *****Ending  test with valid email address and password *********
+2017-09-28 10:34:57 INFO  TC001_VerifyLogin:36 - *****Starting login with empty password field*********
+2017-09-28 10:34:57 INFO  HomePage:106 - Entered username is [[ChromeDriver: chrome on XP (25478d33addc3db0700de4cadd177364)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (25478d33addc3db0700de4cadd177364)] -> id: username]
+2017-09-28 10:42:10 INFO  TC001_VerifyLogin:36 - *****Starting login with empty password field*********
+2017-09-28 10:42:11 INFO  HomePage:106 - Entered username is [[ChromeDriver: chrome on XP (2c11f9c437bbf0e46c25e24c650a43bc)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (2c11f9c437bbf0e46c25e24c650a43bc)] -> id: username]
+2017-09-28 10:48:03 INFO  TC001_VerifyLogin:36 - *****Starting login with empty password field*********
+2017-09-28 10:48:03 INFO  HomePage:106 - Entered username is [[ChromeDriver: chrome on XP (4290962242949d702e1b2ecf09bcb5f9)] -> id: username] and the object is [[ChromeDriver: chrome on XP (4290962242949d702e1b2ecf09bcb5f9)] -> id: username]
+2017-09-28 10:59:07 INFO  TC01_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 10:59:07 INFO  HomePage:106 - Entered username is [[ChromeDriver: chrome on XP (558b347360da8a999e3ccb8bb1df06f6)] -> id: username] and the object is [[ChromeDriver: chrome on XP (558b347360da8a999e3ccb8bb1df06f6)] -> id: username]
+2017-09-28 10:59:08 INFO  TC01_VerifyLogin:48 - *****Ending login with Different Records************
+2017-09-28 11:07:08 INFO  TC01_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 11:07:08 INFO  HomePage:112 - Entered password  is firstlast@gmail.com and the object is firstlast@gmail.com
+2017-09-28 11:08:16 INFO  TC01_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 11:08:16 INFO  HomePage:112 - Entered password  is orange2020 and the object is orange2020
+2017-09-28 11:08:17 INFO  TC01_VerifyLogin:48 - *****Ending login with Different Records************
+2017-09-28 11:33:42 INFO  TC01_VerifyLogin:36 - *****Starting login with Different Records*********
+2017-09-28 11:33:42 INFO  HomePage:95 - Entered username is [[ChromeDriver: chrome on XP (745bdca251387bf1881f7d8d3af7f678)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (745bdca251387bf1881f7d8d3af7f678)] -> id: username]
+2017-09-28 11:33:43 INFO  HomePage:97 - Entered password  is [[ChromeDriver: chrome on XP (745bdca251387bf1881f7d8d3af7f678)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (745bdca251387bf1881f7d8d3af7f678)] -> id: password]
+2017-09-28 11:33:44 INFO  TC01_VerifyLogin:48 - *****Ending login with Different Records************
+2017-09-28 13:38:31 INFO  TC01_VerifyLogin:37 - *****Starting a test with valid email address and password *********
+2017-09-28 13:38:31 INFO  TC01_VerifyLogin:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-09-28 13:38:31 INFO  HomePage:94 - Entered username is [[ChromeDriver: chrome on XP (8994dbc5d508254b7c3e75a74dbea115)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (8994dbc5d508254b7c3e75a74dbea115)] -> id: username]
+2017-09-28 13:38:31 INFO  HomePage:96 - Entered password  is [[ChromeDriver: chrome on XP (8994dbc5d508254b7c3e75a74dbea115)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (8994dbc5d508254b7c3e75a74dbea115)] -> id: password]
+2017-09-28 13:38:37 INFO  TC01_VerifyLogin:44 - *****Ending  test with valid email address and password *********
+2017-09-28 14:55:50 INFO  TC_01VerifyRegistationwithValidCredential:39 - *****Starting Regisration with valid credential*********
+2017-09-28 15:08:38 INFO  TC_01VerifyRegistationwithValidCredential:39 - *****Starting Regisration with valid credential*********
+2017-09-28 15:08:55 INFO  TC_01VerifyRegistationwithValidCredential:58 - *****Ending  Regisration with valid credential*********
+2017-09-28 15:12:29 INFO  TC_01VerifyRegistationwithValidCredential:39 - *****Starting Regisration with valid credential*********
+2017-09-28 15:12:59 INFO  TC_01VerifyRegistationwithValidCredential:58 - *****Ending  Regisration with valid credential*********
+2017-09-28 19:40:51 INFO  TC01_VerifyLogin:37 - *****Starting a test with valid email address and password *********
+2017-09-28 19:40:51 INFO  TC01_VerifyLogin:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-09-28 19:40:51 INFO  HomePage:94 - Entered username is [[ChromeDriver: chrome on XP (680156e6928e5c53c426e7822906a8df)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (680156e6928e5c53c426e7822906a8df)] -> id: username]
+2017-09-28 19:40:52 INFO  HomePage:96 - Entered password  is [[ChromeDriver: chrome on XP (680156e6928e5c53c426e7822906a8df)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (680156e6928e5c53c426e7822906a8df)] -> id: password]
+2017-09-28 19:40:58 INFO  TC01_VerifyLogin:44 - *****Ending  test with valid email address and password *********
+2017-09-29 11:34:49 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 11:34:49 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (215b1a498b684a234ecfaccc2031833a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (215b1a498b684a234ecfaccc2031833a)] -> id: username]
+2017-09-29 11:34:50 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (215b1a498b684a234ecfaccc2031833a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (215b1a498b684a234ecfaccc2031833a)] -> id: password]
+2017-09-29 11:34:57 INFO  HomePage:143 - log out is dispay and the object is org.apache.log4j.Logger@65045a87
+2017-09-29 11:34:57 INFO  TC01_VerifyLogin:46 - *****Ending login with Different Records************
+2017-09-29 11:34:57 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 11:36:57 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-29 11:37:24 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 11:37:24 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (632fc5517f86f2c26bfc8e2ce9286048)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (632fc5517f86f2c26bfc8e2ce9286048)] -> id: username]
+2017-09-29 11:37:24 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (632fc5517f86f2c26bfc8e2ce9286048)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (632fc5517f86f2c26bfc8e2ce9286048)] -> id: password]
+2017-09-29 11:37:30 INFO  HomePage:143 - log out is dispay and the object is org.apache.log4j.Logger@65045a87
+2017-09-29 11:37:30 INFO  TC01_VerifyLogin:46 - *****Ending login with Different Records************
+2017-09-29 11:37:30 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:33:14 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:33:14 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (2a567fb0808c8b32e6219b9032e33f9e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (2a567fb0808c8b32e6219b9032e33f9e)] -> id: username]
+2017-09-29 17:33:14 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (2a567fb0808c8b32e6219b9032e33f9e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (2a567fb0808c8b32e6219b9032e33f9e)] -> id: password]
+2017-09-29 17:33:23 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:35:09 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is [[ChromeDriver: chrome on XP (2a567fb0808c8b32e6219b9032e33f9e)] -> id: username]
+2017-09-29 17:35:10 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (2a567fb0808c8b32e6219b9032e33f9e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (2a567fb0808c8b32e6219b9032e33f9e)] -> id: password]
+2017-09-29 17:37:46 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:37:47 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (2e779ee73c5b98f60ea67324b09dd897)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (2e779ee73c5b98f60ea67324b09dd897)] -> id: username]
+2017-09-29 17:37:47 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (2e779ee73c5b98f60ea67324b09dd897)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (2e779ee73c5b98f60ea67324b09dd897)] -> id: password]
+2017-09-29 17:37:56 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:39:56 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-29 17:40:38 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:40:38 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (89c4a97bd6540bd0cc0f4bdd3ffa0da7)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (89c4a97bd6540bd0cc0f4bdd3ffa0da7)] -> id: username]
+2017-09-29 17:40:39 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (89c4a97bd6540bd0cc0f4bdd3ffa0da7)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (89c4a97bd6540bd0cc0f4bdd3ffa0da7)] -> id: password]
+2017-09-29 17:40:47 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:42:47 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-09-29 17:46:56 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:46:56 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: username]
+2017-09-29 17:46:57 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: password]
+2017-09-29 17:48:09 INFO  HomePage:155 - Click on Logout and the object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='logout.php']'
+2017-09-29 17:48:09 INFO  TC01_VerifyLogin:50 - *****Ending login with Different Records************
+2017-09-29 17:48:09 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:48:09 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: username]
+2017-09-29 17:48:09 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (65650c815f04b8afcbd344a9798dfdbd)] -> id: password]
+2017-09-29 17:49:19 INFO  HomePage:155 - Click on Logout and the object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='logout.php']'
+2017-09-29 17:49:19 INFO  TC01_VerifyLogin:50 - *****Ending login with Different Records************
+2017-09-29 17:53:56 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:53:56 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: username]
+2017-09-29 17:53:57 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: password]
+2017-09-29 17:55:09 INFO  HomePage:155 - Click on Logout and the object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='logout.php']'
+2017-09-29 17:55:09 INFO  TC01_VerifyLogin:50 - *****Ending login with Different Records************
+2017-09-29 17:55:09 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 17:55:10 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: username]
+2017-09-29 17:55:10 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (563e30fa8e11eefaf6811581322d145a)] -> id: password]
+2017-09-29 17:56:21 INFO  HomePage:155 - Click on Logout and the object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='logout.php']'
+2017-09-29 17:56:21 INFO  TC01_VerifyLogin:50 - *****Ending login with Different Records************
+2017-09-29 18:06:07 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 18:06:07 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: username]
+2017-09-29 18:06:08 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: password]
+2017-09-29 18:07:20 INFO  HomePage:155 - Click on Logout and the object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='logout.php']'
+2017-09-29 18:07:20 INFO  TC01_VerifyLogin:50 - *****Ending login with Different Records************
+2017-09-29 18:07:20 INFO  TC01_VerifyLogin:38 - *****Starting login with Different Records*********
+2017-09-29 18:07:20 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: username]
+2017-09-29 18:07:21 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1b479a053a8db9bd3117268a299d5c91)] -> id: password]
+2017-09-29 18:08:30 INFO  HomePage:155 - Click on Logout and the object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='logout.php']'
+2017-09-29 18:08:30 INFO  TC01_VerifyLogin:50 - *****Ending login with Different Records************
+2017-10-02 12:21:22 INFO  TC01_VerifyLogin:41 - *****Starting a test with valid email address and password *********
+2017-10-02 12:21:22 INFO  TC01_VerifyLogin:42 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 12:21:22 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (89463328fce29a409e9670e5891837ef)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (89463328fce29a409e9670e5891837ef)] -> id: username]
+2017-10-02 12:21:23 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (89463328fce29a409e9670e5891837ef)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (89463328fce29a409e9670e5891837ef)] -> id: password]
+2017-10-02 12:21:37 INFO  TC01_VerifyLogin:50 - *****Ending  test with valid email address and password *********
+2017-10-02 16:39:09 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:39:09 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 16:39:09 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (45fde9d62491cfd7a4ceda97d98292ed)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (45fde9d62491cfd7a4ceda97d98292ed)] -> id: username]
+2017-10-02 16:39:10 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (45fde9d62491cfd7a4ceda97d98292ed)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (45fde9d62491cfd7a4ceda97d98292ed)] -> id: password]
+2017-10-02 16:39:17 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:39:17 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :nulland password is null
+2017-10-02 16:41:17 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-10-02 16:42:18 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:42:18 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 16:42:18 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (eec02960f82972286c4fc7c61e509f48)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (eec02960f82972286c4fc7c61e509f48)] -> id: username]
+2017-10-02 16:42:19 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (eec02960f82972286c4fc7c61e509f48)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (eec02960f82972286c4fc7c61e509f48)] -> id: password]
+2017-10-02 16:42:27 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:42:27 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :nulland password is null
+2017-10-02 16:44:27 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-10-02 16:45:58 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:45:58 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 16:45:58 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (151af7a0cc886b8454af7803dd372931)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (151af7a0cc886b8454af7803dd372931)] -> id: username]
+2017-10-02 16:45:59 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (151af7a0cc886b8454af7803dd372931)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (151af7a0cc886b8454af7803dd372931)] -> id: password]
+2017-10-02 16:46:08 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:46:08 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :nulland password is null
+2017-10-02 16:48:08 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-10-02 16:55:15 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:55:15 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 16:55:15 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (bd7f6f9043dd37390cca745a260326b6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (bd7f6f9043dd37390cca745a260326b6)] -> id: username]
+2017-10-02 16:55:16 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (bd7f6f9043dd37390cca745a260326b6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (bd7f6f9043dd37390cca745a260326b6)] -> id: password]
+2017-10-02 16:56:25 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 16:56:25 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :nulland password is null
+2017-10-02 17:09:03 INFO  ReusbleFunctions:32 - *****Starting a test with valid email address and password *********
+2017-10-02 17:09:03 INFO  ReusbleFunctions:33 - user name is :firstlast@gmail.comand password is 1234.0
+2017-10-02 17:09:03 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (03bf2d493076fd3a6fb48872dca164dd)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (03bf2d493076fd3a6fb48872dca164dd)] -> id: username]
+2017-10-02 17:09:05 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (03bf2d493076fd3a6fb48872dca164dd)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (03bf2d493076fd3a6fb48872dca164dd)] -> id: password]
+2017-10-02 17:09:17 INFO  ReusbleFunctions:42 - *****Ending  test with valid email address and password *********
+2017-10-02 17:13:00 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 17:13:00 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 17:13:01 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (353d510f6326764cb2c08ce93dc0a75a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (353d510f6326764cb2c08ce93dc0a75a)] -> id: username]
+2017-10-02 17:13:02 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (353d510f6326764cb2c08ce93dc0a75a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (353d510f6326764cb2c08ce93dc0a75a)] -> id: password]
+2017-10-02 17:16:23 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 17:16:23 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 17:16:24 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (44b2c72def29eb4dedf973653e3e3d8c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (44b2c72def29eb4dedf973653e3e3d8c)] -> id: username]
+2017-10-02 17:16:25 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (44b2c72def29eb4dedf973653e3e3d8c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (44b2c72def29eb4dedf973653e3e3d8c)] -> id: password]
+2017-10-02 17:29:39 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 17:29:39 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 17:29:39 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (5b5dea2c83360ae82f4774c17930f11b)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (5b5dea2c83360ae82f4774c17930f11b)] -> id: username]
+2017-10-02 17:29:40 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (5b5dea2c83360ae82f4774c17930f11b)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (5b5dea2c83360ae82f4774c17930f11b)] -> id: password]
+2017-10-02 17:35:54 INFO  TC_01VerifyNavigationtoTestPlanLinks:40 - *****Starting a test with navigating to the TestPlan Links *********
+2017-10-02 17:35:54 INFO  TC_01VerifyNavigationtoTestPlanLinks:41 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 17:35:54 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (344ff5477d57984d342c2f829bee6ad7)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (344ff5477d57984d342c2f829bee6ad7)] -> id: username]
+2017-10-02 17:35:54 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (344ff5477d57984d342c2f829bee6ad7)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (344ff5477d57984d342c2f829bee6ad7)] -> id: password]
+2017-10-02 17:36:19 INFO  TC_01VerifyNavigationtoTestPlanLinks:55 - *****Ending a test with navigating to the TestPlan Links *********
+2017-10-02 22:32:02 INFO  TC_01VerifyNavigationtoTestPlanLinks:37 - *****Starting a test with navigating to the Reusable Components Links *********
+2017-10-02 22:32:02 INFO  TC_01VerifyNavigationtoTestPlanLinks:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 22:32:02 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (f84db10a92f3042a6e3e5bae3f8a43ab)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (f84db10a92f3042a6e3e5bae3f8a43ab)] -> id: username]
+2017-10-02 22:32:02 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (f84db10a92f3042a6e3e5bae3f8a43ab)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (f84db10a92f3042a6e3e5bae3f8a43ab)] -> id: password]
+2017-10-02 22:37:53 INFO  TC_01VerifyNavigationtoTestPlanLinks:37 - *****Starting a test with navigating to the Reusable Components Links *********
+2017-10-02 22:37:53 INFO  TC_01VerifyNavigationtoTestPlanLinks:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 22:37:53 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (05c0b0c4adc1502ee28c2a28ede2cd2a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (05c0b0c4adc1502ee28c2a28ede2cd2a)] -> id: username]
+2017-10-02 22:37:53 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (05c0b0c4adc1502ee28c2a28ede2cd2a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (05c0b0c4adc1502ee28c2a28ede2cd2a)] -> id: password]
+2017-10-02 22:38:38 INFO  TC_01VerifyNavigationtoTestPlanLinks:52 - *****Ending a test with navigating to the Reusable Components Links *********
+2017-10-02 22:39:54 INFO  TC_01VerifyNavigationtoTestPlanLinks:37 - *****Starting a test with navigating to the Reusable Components Links *********
+2017-10-02 22:39:54 INFO  TC_01VerifyNavigationtoTestPlanLinks:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 22:39:55 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (b68012dae6d128e4ab5a129796427ab7)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (b68012dae6d128e4ab5a129796427ab7)] -> id: username]
+2017-10-02 22:39:55 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (b68012dae6d128e4ab5a129796427ab7)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (b68012dae6d128e4ab5a129796427ab7)] -> id: password]
+2017-10-02 22:41:46 INFO  TC_01VerifyNavigationtoTestPlanLinks:37 - *****Starting a test with navigating to the Reusable Components Links *********
+2017-10-02 22:41:46 INFO  TC_01VerifyNavigationtoTestPlanLinks:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 22:41:46 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (c07826e1c8cce4892a80bfe2add1eaf6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (c07826e1c8cce4892a80bfe2add1eaf6)] -> id: username]
+2017-10-02 22:41:47 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (c07826e1c8cce4892a80bfe2add1eaf6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (c07826e1c8cce4892a80bfe2add1eaf6)] -> id: password]
+2017-10-02 22:46:42 INFO  TC_01VerifyNavigationtoTestPlanLinks:37 - *****Starting a test with navigating to the Reusable Components Links *********
+2017-10-02 22:46:42 INFO  TC_01VerifyNavigationtoTestPlanLinks:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 22:46:42 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (62ff30db32b994d7ae7695aa5d9fc05d)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (62ff30db32b994d7ae7695aa5d9fc05d)] -> id: username]
+2017-10-02 22:46:43 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (62ff30db32b994d7ae7695aa5d9fc05d)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (62ff30db32b994d7ae7695aa5d9fc05d)] -> id: password]
+2017-10-02 22:47:40 INFO  TC_01VerifyNavigationtoTestPlanLinks:54 - *****Ending a test with navigating to the Reusable Components Links *********
+2017-10-02 22:49:19 INFO  TC_01VerifyNavigationtoTestPlanLinks:37 - *****Starting a test with navigating to the Reusable Components Links *********
+2017-10-02 22:49:19 INFO  TC_01VerifyNavigationtoTestPlanLinks:38 - user name is :firstlast@gmail.comand password is orange2020
+2017-10-02 22:49:19 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (279147df5d6c1d327887e940ea1e3f9e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (279147df5d6c1d327887e940ea1e3f9e)] -> id: username]
+2017-10-02 22:49:20 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (279147df5d6c1d327887e940ea1e3f9e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (279147df5d6c1d327887e940ea1e3f9e)] -> id: password]
+2017-10-02 22:49:36 INFO  TC_01VerifyNavigationtoTestPlanLinks:54 - *****Ending a test with navigating to the Reusable Components Links *********
+2017-10-03 10:57:18 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 10:57:18 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (4fd936c492e727acb9c7b1b6f4cde480)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (4fd936c492e727acb9c7b1b6f4cde480)] -> id: username]
+2017-10-03 10:57:19 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (4fd936c492e727acb9c7b1b6f4cde480)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (4fd936c492e727acb9c7b1b6f4cde480)] -> id: password]
+2017-10-03 11:01:47 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 11:01:47 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (45ad708ebcb49aacde7e31bc45868d38)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (45ad708ebcb49aacde7e31bc45868d38)] -> id: username]
+2017-10-03 11:01:47 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (45ad708ebcb49aacde7e31bc45868d38)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (45ad708ebcb49aacde7e31bc45868d38)] -> id: password]
+2017-10-03 11:02:00 INFO  AUTDetailPage:214 - Clicking on Modules link
+2017-10-03 11:04:11 INFO  TC_01VerifyRegistationwithValidCredential:41 - *****Starting Regisration with valid credential*********
+2017-10-03 11:04:43 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 11:04:43 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (c9b79ac966b6b0a9ecd0eaee06985e7c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (c9b79ac966b6b0a9ecd0eaee06985e7c)] -> id: username]
+2017-10-03 11:04:44 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (c9b79ac966b6b0a9ecd0eaee06985e7c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (c9b79ac966b6b0a9ecd0eaee06985e7c)] -> id: password]
+2017-10-03 11:04:57 INFO  AUTDetailPage:214 - Clicking on Modules link
+2017-10-03 11:12:18 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 11:12:19 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (ea2b4a3725e7c3fe881a9897029a6f0a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (ea2b4a3725e7c3fe881a9897029a6f0a)] -> id: username]
+2017-10-03 11:12:19 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (ea2b4a3725e7c3fe881a9897029a6f0a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (ea2b4a3725e7c3fe881a9897029a6f0a)] -> id: password]
+2017-10-03 11:16:19 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 11:16:20 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (470e87b73a04f41ba2a47850b4a35363)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (470e87b73a04f41ba2a47850b4a35363)] -> id: username]
+2017-10-03 11:16:20 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (470e87b73a04f41ba2a47850b4a35363)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (470e87b73a04f41ba2a47850b4a35363)] -> id: password]
+2017-10-03 11:32:40 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 11:32:41 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (c59ea52017529a9969272cdb9e2bf98c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (c59ea52017529a9969272cdb9e2bf98c)] -> id: username]
+2017-10-03 11:32:41 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (c59ea52017529a9969272cdb9e2bf98c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (c59ea52017529a9969272cdb9e2bf98c)] -> id: password]
+2017-10-03 11:32:56 INFO  TC01_VerifyAUTaddFunctionality:68 - *****Ending  AUT adding test********
+2017-10-03 11:36:48 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 11:36:48 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (d9630b29eb2b6bd8378ffda1839c7cc5)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d9630b29eb2b6bd8378ffda1839c7cc5)] -> id: username]
+2017-10-03 11:36:49 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (d9630b29eb2b6bd8378ffda1839c7cc5)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (d9630b29eb2b6bd8378ffda1839c7cc5)] -> id: password]
+2017-10-03 18:20:27 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 18:20:27 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (3240b96d14ac88c8f5b6a1aa8c11bc1c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (3240b96d14ac88c8f5b6a1aa8c11bc1c)] -> id: username]
+2017-10-03 18:20:28 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (3240b96d14ac88c8f5b6a1aa8c11bc1c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (3240b96d14ac88c8f5b6a1aa8c11bc1c)] -> id: password]
+2017-10-03 18:21:53 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 18:21:53 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (590f9504b377cb79472354184c95d6e4)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (590f9504b377cb79472354184c95d6e4)] -> id: username]
+2017-10-03 18:21:53 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (590f9504b377cb79472354184c95d6e4)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (590f9504b377cb79472354184c95d6e4)] -> id: password]
+2017-10-03 18:22:04 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-03 18:26:44 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-03 18:26:44 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (fb89970add48300ceadde4f6323e514d)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (fb89970add48300ceadde4f6323e514d)] -> id: username]
+2017-10-03 18:26:45 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (fb89970add48300ceadde4f6323e514d)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (fb89970add48300ceadde4f6323e514d)] -> id: password]
+2017-10-03 18:26:55 INFO  AUTDetailPage:225 - Clicking on Modules link
+2017-10-03 18:26:56 INFO  AUTDetailPage:227 - Clicked on Modules link
+2017-10-03 18:26:56 INFO  AUTDetailPage:228 - Entering Module Name, Module ID and Module Description
+2017-10-03 18:26:57 INFO  AUTDetailPage:236 - Entered Module Name, Module ID and Module Description
+2017-10-03 18:26:57 INFO  TC01_VerifyAUTaddFunctionality:70 - *****Ending  AUT adding test********
+2017-10-04 10:45:55 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 10:45:55 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (f68c801c7bb0cc6f2e368107e5a576a6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (f68c801c7bb0cc6f2e368107e5a576a6)] -> id: username]
+2017-10-04 10:45:56 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (f68c801c7bb0cc6f2e368107e5a576a6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (f68c801c7bb0cc6f2e368107e5a576a6)] -> id: password]
+2017-10-04 10:46:05 INFO  AUTDetailPage:225 - Clicking on Modules link
+2017-10-04 10:46:06 INFO  AUTDetailPage:227 - Clicked on Modules link
+2017-10-04 10:46:06 INFO  AUTDetailPage:228 - Entering Module Name, Module ID and Module Description
+2017-10-04 10:46:08 INFO  AUTDetailPage:236 - Entered Module Name, Module ID and Module Description
+2017-10-04 10:46:08 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-04 10:48:33 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 10:48:33 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (2939f2724aae62531687b0475d996ff3)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (2939f2724aae62531687b0475d996ff3)] -> id: username]
+2017-10-04 10:48:33 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (2939f2724aae62531687b0475d996ff3)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (2939f2724aae62531687b0475d996ff3)] -> id: password]
+2017-10-04 10:48:45 INFO  AUTDetailPage:236 - Entered Module Name, Module ID and Module Description
+2017-10-04 10:48:45 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-04 10:58:25 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 10:58:25 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (882a018fef6f7f7f4f09b3d891243276)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (882a018fef6f7f7f4f09b3d891243276)] -> id: username]
+2017-10-04 10:58:25 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (882a018fef6f7f7f4f09b3d891243276)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (882a018fef6f7f7f4f09b3d891243276)] -> id: password]
+2017-10-04 10:58:37 INFO  AUTDetailPage:236 - Entered Module Name, Module ID and Module Description
+2017-10-04 10:58:37 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-04 11:00:33 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 11:00:33 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (88716d249ff15529dfee15d50a2a2a74)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (88716d249ff15529dfee15d50a2a2a74)] -> id: username]
+2017-10-04 11:00:33 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (88716d249ff15529dfee15d50a2a2a74)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (88716d249ff15529dfee15d50a2a2a74)] -> id: password]
+2017-10-04 11:00:45 INFO  AUTDetailPage:236 - Entered Module Name, Module ID and Module Description
+2017-10-04 11:00:45 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-04 11:44:17 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 11:44:17 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (0399a6c315de24e80761296739b78a1a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (0399a6c315de24e80761296739b78a1a)] -> id: username]
+2017-10-04 11:44:17 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (0399a6c315de24e80761296739b78a1a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (0399a6c315de24e80761296739b78a1a)] -> id: password]
+2017-10-04 11:46:05 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 11:46:05 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (64a47127ff619a4285d9d627789ac1e8)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (64a47127ff619a4285d9d627789ac1e8)] -> id: username]
+2017-10-04 11:46:05 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (64a47127ff619a4285d9d627789ac1e8)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (64a47127ff619a4285d9d627789ac1e8)] -> id: password]
+2017-10-04 11:48:21 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 11:48:22 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (9a3cd32543409a66d1cfc5c8bb7d3456)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (9a3cd32543409a66d1cfc5c8bb7d3456)] -> id: username]
+2017-10-04 11:48:22 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (9a3cd32543409a66d1cfc5c8bb7d3456)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (9a3cd32543409a66d1cfc5c8bb7d3456)] -> id: password]
+2017-10-04 11:50:28 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 11:50:28 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (46d532cf360de5256b73c043b4249a27)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (46d532cf360de5256b73c043b4249a27)] -> id: username]
+2017-10-04 11:50:28 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (46d532cf360de5256b73c043b4249a27)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (46d532cf360de5256b73c043b4249a27)] -> id: password]
+2017-10-04 14:52:50 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 14:52:50 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (cfeb85fde9bfd03853fbc0a0d9d30119)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (cfeb85fde9bfd03853fbc0a0d9d30119)] -> id: username]
+2017-10-04 14:52:52 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (cfeb85fde9bfd03853fbc0a0d9d30119)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (cfeb85fde9bfd03853fbc0a0d9d30119)] -> id: password]
+2017-10-04 14:53:20 INFO  AUTDetailPage:236 - Entered Module Name, Module ID and Module Description
+2017-10-04 14:53:20 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-04 15:00:47 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 15:00:48 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (ff7fe5bf15199598aa31d4fc7f0932bd)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (ff7fe5bf15199598aa31d4fc7f0932bd)] -> id: username]
+2017-10-04 15:00:49 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (ff7fe5bf15199598aa31d4fc7f0932bd)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (ff7fe5bf15199598aa31d4fc7f0932bd)] -> id: password]
+2017-10-04 15:01:20 INFO  AUTDetailPage:237 - Entered Module Name, Module ID and Module Description
+2017-10-04 15:01:20 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-04 15:06:43 INFO  TC01_VerifyAUTaddFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 15:06:44 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (bbf8fb3348af0288bc8c0465a514feea)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (bbf8fb3348af0288bc8c0465a514feea)] -> id: username]
+2017-10-04 15:06:45 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (bbf8fb3348af0288bc8c0465a514feea)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (bbf8fb3348af0288bc8c0465a514feea)] -> id: password]
+2017-10-04 15:07:17 INFO  AUTDetailPage:237 - Entered Module Name, Module ID and Module Description
+2017-10-04 15:07:22 INFO  TC01_VerifyAUTaddFunctionality:69 - *****Ending  AUT adding test********
+2017-10-04 16:14:57 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 16:14:57 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (a4c800d936cf55409e951bb718243538)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (a4c800d936cf55409e951bb718243538)] -> id: username]
+2017-10-04 16:14:58 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (a4c800d936cf55409e951bb718243538)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (a4c800d936cf55409e951bb718243538)] -> id: password]
+2017-10-04 16:16:37 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 16:16:37 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (ce8876132835f0435024563c3893c83a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (ce8876132835f0435024563c3893c83a)] -> id: username]
+2017-10-04 16:16:38 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (ce8876132835f0435024563c3893c83a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (ce8876132835f0435024563c3893c83a)] -> id: password]
+2017-10-04 16:19:27 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 16:19:27 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (0e57bead20e7aa1889254473513a3f08)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (0e57bead20e7aa1889254473513a3f08)] -> id: username]
+2017-10-04 16:19:28 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (0e57bead20e7aa1889254473513a3f08)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (0e57bead20e7aa1889254473513a3f08)] -> id: password]
+2017-10-04 16:22:06 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 16:22:06 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (a6182655bcf5d52461418d88d4735589)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (a6182655bcf5d52461418d88d4735589)] -> id: username]
+2017-10-04 16:22:07 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (a6182655bcf5d52461418d88d4735589)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (a6182655bcf5d52461418d88d4735589)] -> id: password]
+2017-10-04 16:41:47 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 16:41:47 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (7662db4d6b867c561522de4118b9d03b)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (7662db4d6b867c561522de4118b9d03b)] -> id: username]
+2017-10-04 16:41:47 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (7662db4d6b867c561522de4118b9d03b)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (7662db4d6b867c561522de4118b9d03b)] -> id: password]
+2017-10-04 16:48:34 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 16:48:34 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (0d272c7fc063aa51ffb86061a83eb9d8)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (0d272c7fc063aa51ffb86061a83eb9d8)] -> id: username]
+2017-10-04 16:48:35 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (0d272c7fc063aa51ffb86061a83eb9d8)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (0d272c7fc063aa51ffb86061a83eb9d8)] -> id: password]
+2017-10-04 17:02:15 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 17:02:15 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (513fc295c4a0be95cbf446fa842ecef0)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (513fc295c4a0be95cbf446fa842ecef0)] -> id: username]
+2017-10-04 17:02:15 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (513fc295c4a0be95cbf446fa842ecef0)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (513fc295c4a0be95cbf446fa842ecef0)] -> id: password]
+2017-10-04 17:37:30 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 17:37:30 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (94a3f4662537ff8f707f084634c61c92)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (94a3f4662537ff8f707f084634c61c92)] -> id: username]
+2017-10-04 17:37:31 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (94a3f4662537ff8f707f084634c61c92)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (94a3f4662537ff8f707f084634c61c92)] -> id: password]
+2017-10-04 17:39:11 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 17:39:11 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (0dda29ce40823960b58aec71e5629d16)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (0dda29ce40823960b58aec71e5629d16)] -> id: username]
+2017-10-04 17:39:12 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (0dda29ce40823960b58aec71e5629d16)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (0dda29ce40823960b58aec71e5629d16)] -> id: password]
+2017-10-04 17:41:26 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 17:46:11 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 17:46:11 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (e5d1ce1b002749e003708a6240c2c91b)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (e5d1ce1b002749e003708a6240c2c91b)] -> id: username]
+2017-10-04 17:46:11 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (e5d1ce1b002749e003708a6240c2c91b)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (e5d1ce1b002749e003708a6240c2c91b)] -> id: password]
+2017-10-04 17:48:35 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 17:48:35 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (5278e3852c8a10f3abadc4d05a00c24b)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (5278e3852c8a10f3abadc4d05a00c24b)] -> id: username]
+2017-10-04 17:48:35 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (5278e3852c8a10f3abadc4d05a00c24b)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (5278e3852c8a10f3abadc4d05a00c24b)] -> id: password]
+2017-10-04 17:59:17 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 17:59:18 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (09b60976c351f5d241d311c62d177950)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (09b60976c351f5d241d311c62d177950)] -> id: username]
+2017-10-04 17:59:18 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (09b60976c351f5d241d311c62d177950)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (09b60976c351f5d241d311c62d177950)] -> id: password]
+2017-10-04 18:02:37 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 18:02:38 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (b693dbca05d52ad79a248ed7f4611704)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (b693dbca05d52ad79a248ed7f4611704)] -> id: username]
+2017-10-04 18:02:38 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (b693dbca05d52ad79a248ed7f4611704)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (b693dbca05d52ad79a248ed7f4611704)] -> id: password]
+2017-10-04 18:04:29 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 18:04:29 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (115e17085afccf860fd19bf0a2644d77)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (115e17085afccf860fd19bf0a2644d77)] -> id: username]
+2017-10-04 18:04:29 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (115e17085afccf860fd19bf0a2644d77)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (115e17085afccf860fd19bf0a2644d77)] -> id: password]
+2017-10-04 18:07:08 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 18:07:08 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (e2273c1ce70558f708c12c9958ad6d87)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (e2273c1ce70558f708c12c9958ad6d87)] -> id: username]
+2017-10-04 18:07:09 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (e2273c1ce70558f708c12c9958ad6d87)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (e2273c1ce70558f708c12c9958ad6d87)] -> id: password]
+2017-10-04 22:00:47 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 22:00:47 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (6b036dc5059ceba0d63345954c4d117e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (6b036dc5059ceba0d63345954c4d117e)] -> id: username]
+2017-10-04 22:00:49 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (6b036dc5059ceba0d63345954c4d117e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (6b036dc5059ceba0d63345954c4d117e)] -> id: password]
+2017-10-04 22:02:02 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 22:02:02 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (5532860d1fa7b8ace58e2cdce03c864d)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (5532860d1fa7b8ace58e2cdce03c864d)] -> id: username]
+2017-10-04 22:02:03 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (5532860d1fa7b8ace58e2cdce03c864d)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (5532860d1fa7b8ace58e2cdce03c864d)] -> id: password]
+2017-10-04 22:11:09 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-04 22:11:10 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (d0e2c4bcb0387b59aa07c876023d1a41)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d0e2c4bcb0387b59aa07c876023d1a41)] -> id: username]
+2017-10-04 22:11:11 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (d0e2c4bcb0387b59aa07c876023d1a41)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (d0e2c4bcb0387b59aa07c876023d1a41)] -> id: password]
+2017-10-05 10:29:04 INFO  VerifyTestCaseTestStepFunctionality:43 - *****Starting AUT adding test********
+2017-10-05 10:29:04 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (928c38deb7d42c2757e301f788f2905e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (928c38deb7d42c2757e301f788f2905e)] -> id: username]
+2017-10-05 10:29:04 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (928c38deb7d42c2757e301f788f2905e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (928c38deb7d42c2757e301f788f2905e)] -> id: password]
+2017-10-05 11:20:58 INFO  VerifyTestCaseTestStepFunctionality:43 - *****Starting AUT adding test********
+2017-10-05 11:20:58 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (cf262518ada89f032b889a7745dbcaef)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (cf262518ada89f032b889a7745dbcaef)] -> id: username]
+2017-10-05 11:20:58 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (cf262518ada89f032b889a7745dbcaef)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (cf262518ada89f032b889a7745dbcaef)] -> id: password]
+2017-10-05 12:04:01 INFO  VerifyTestCaseTestStepFunctionality:43 - *****Starting AUT adding test********
+2017-10-05 12:04:01 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (6b584eef1f7d1fa5abe55c690d9ad765)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (6b584eef1f7d1fa5abe55c690d9ad765)] -> id: username]
+2017-10-05 12:04:01 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (6b584eef1f7d1fa5abe55c690d9ad765)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (6b584eef1f7d1fa5abe55c690d9ad765)] -> id: password]
+2017-10-05 12:13:37 INFO  VerifyTestCaseTestStepFunctionality:43 - *****Starting AUT adding test********
+2017-10-05 12:13:37 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (7df7c619e67499f5fe50c61df8c00e57)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (7df7c619e67499f5fe50c61df8c00e57)] -> id: username]
+2017-10-05 12:13:37 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (7df7c619e67499f5fe50c61df8c00e57)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (7df7c619e67499f5fe50c61df8c00e57)] -> id: password]
+2017-10-06 11:12:01 INFO  VerifyTestCaseTestStepFunctionality:59 - *****Starting AUT adding test********
+2017-10-06 11:12:01 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (1f2fccd2c2650f115973a57aeb63e91e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1f2fccd2c2650f115973a57aeb63e91e)] -> id: username]
+2017-10-06 11:12:02 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (1f2fccd2c2650f115973a57aeb63e91e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1f2fccd2c2650f115973a57aeb63e91e)] -> id: password]
+2017-10-06 11:13:41 INFO  VerifyTestCaseTestStepFunctionality:43 - *****Starting AUT adding test********
+2017-10-06 11:13:41 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (30e92dcc1088fc7b539e6398619d34a4)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (30e92dcc1088fc7b539e6398619d34a4)] -> id: username]
+2017-10-06 11:13:42 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (30e92dcc1088fc7b539e6398619d34a4)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (30e92dcc1088fc7b539e6398619d34a4)] -> id: password]
+2017-10-06 13:08:15 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-06 13:08:16 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (1c92eec8420550d2162343eaec85cbde)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1c92eec8420550d2162343eaec85cbde)] -> id: username]
+2017-10-06 13:08:16 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (1c92eec8420550d2162343eaec85cbde)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1c92eec8420550d2162343eaec85cbde)] -> id: password]
+2017-10-06 13:11:53 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-06 13:11:53 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (fde4b73cf67d253fa9c063ca201968d3)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (fde4b73cf67d253fa9c063ca201968d3)] -> id: username]
+2017-10-06 13:11:54 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (fde4b73cf67d253fa9c063ca201968d3)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (fde4b73cf67d253fa9c063ca201968d3)] -> id: password]
+2017-10-08 14:59:40 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 14:59:41 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (3a37be8d3aff6095c7e43fc9049f29f3)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (3a37be8d3aff6095c7e43fc9049f29f3)] -> id: username]
+2017-10-08 14:59:41 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (3a37be8d3aff6095c7e43fc9049f29f3)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (3a37be8d3aff6095c7e43fc9049f29f3)] -> id: password]
+2017-10-08 15:29:03 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 15:29:03 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (ffc6042a1b463d3b671b8d3cf584e098)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (ffc6042a1b463d3b671b8d3cf584e098)] -> id: username]
+2017-10-08 15:29:03 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (ffc6042a1b463d3b671b8d3cf584e098)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (ffc6042a1b463d3b671b8d3cf584e098)] -> id: password]
+2017-10-08 15:30:56 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 15:30:56 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (863d17d670a3c779153065788e94c2aa)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (863d17d670a3c779153065788e94c2aa)] -> id: username]
+2017-10-08 15:30:56 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (863d17d670a3c779153065788e94c2aa)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (863d17d670a3c779153065788e94c2aa)] -> id: password]
+2017-10-08 15:37:56 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 15:37:56 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (b395d05e09e0390355cb6461a539d9c6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (b395d05e09e0390355cb6461a539d9c6)] -> id: username]
+2017-10-08 15:37:56 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (b395d05e09e0390355cb6461a539d9c6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (b395d05e09e0390355cb6461a539d9c6)] -> id: password]
+2017-10-08 15:41:09 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 15:41:09 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (dc69d638c295f4ca167f33e8a0141875)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (dc69d638c295f4ca167f33e8a0141875)] -> id: username]
+2017-10-08 15:41:09 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (dc69d638c295f4ca167f33e8a0141875)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (dc69d638c295f4ca167f33e8a0141875)] -> id: password]
+2017-10-08 17:03:37 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:03:37 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (05a20422291e076442dfa5832ca2c905)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (05a20422291e076442dfa5832ca2c905)] -> id: username]
+2017-10-08 17:03:37 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (05a20422291e076442dfa5832ca2c905)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (05a20422291e076442dfa5832ca2c905)] -> id: password]
+2017-10-08 17:06:20 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:06:21 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (df2a03efa2723002b07bff4d47398b47)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (df2a03efa2723002b07bff4d47398b47)] -> id: username]
+2017-10-08 17:06:21 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (df2a03efa2723002b07bff4d47398b47)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (df2a03efa2723002b07bff4d47398b47)] -> id: password]
+2017-10-08 17:10:34 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:10:35 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (94cc7f28926f8bf517dc8af0d89d6c98)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (94cc7f28926f8bf517dc8af0d89d6c98)] -> id: username]
+2017-10-08 17:10:35 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (94cc7f28926f8bf517dc8af0d89d6c98)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (94cc7f28926f8bf517dc8af0d89d6c98)] -> id: password]
+2017-10-08 17:17:56 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:17:57 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (612ba74eb7c614d088332b3240d6de0e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (612ba74eb7c614d088332b3240d6de0e)] -> id: username]
+2017-10-08 17:17:57 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (612ba74eb7c614d088332b3240d6de0e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (612ba74eb7c614d088332b3240d6de0e)] -> id: password]
+2017-10-08 17:23:42 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:23:42 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (51040d71c44ed4af4155b6b2ad9a5939)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (51040d71c44ed4af4155b6b2ad9a5939)] -> id: username]
+2017-10-08 17:23:43 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (51040d71c44ed4af4155b6b2ad9a5939)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (51040d71c44ed4af4155b6b2ad9a5939)] -> id: password]
+2017-10-08 17:25:10 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:25:11 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (f0cf6ee8b345979c54c6eb4544f4b9ec)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (f0cf6ee8b345979c54c6eb4544f4b9ec)] -> id: username]
+2017-10-08 17:25:11 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (f0cf6ee8b345979c54c6eb4544f4b9ec)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (f0cf6ee8b345979c54c6eb4544f4b9ec)] -> id: password]
+2017-10-08 17:31:39 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:31:39 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (5496088040403633a348c139d278a9e1)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (5496088040403633a348c139d278a9e1)] -> id: username]
+2017-10-08 17:31:40 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (5496088040403633a348c139d278a9e1)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (5496088040403633a348c139d278a9e1)] -> id: password]
+2017-10-08 17:32:37 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:32:37 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (2cc069c308319416489c0e9fb6229b77)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (2cc069c308319416489c0e9fb6229b77)] -> id: username]
+2017-10-08 17:32:38 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (2cc069c308319416489c0e9fb6229b77)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (2cc069c308319416489c0e9fb6229b77)] -> id: password]
+2017-10-08 17:34:14 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:34:14 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (95cb3fe11697b7b4b9cd350472d19ef3)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (95cb3fe11697b7b4b9cd350472d19ef3)] -> id: username]
+2017-10-08 17:34:15 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (95cb3fe11697b7b4b9cd350472d19ef3)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (95cb3fe11697b7b4b9cd350472d19ef3)] -> id: password]
+2017-10-08 17:35:37 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:35:37 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (1365a0dd3ae64397248b244f993c802e)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1365a0dd3ae64397248b244f993c802e)] -> id: username]
+2017-10-08 17:35:38 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (1365a0dd3ae64397248b244f993c802e)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1365a0dd3ae64397248b244f993c802e)] -> id: password]
+2017-10-08 17:52:39 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:52:39 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (0794f4693e3693b5a0c8d377a52b1f0b)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (0794f4693e3693b5a0c8d377a52b1f0b)] -> id: username]
+2017-10-08 17:52:40 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (0794f4693e3693b5a0c8d377a52b1f0b)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (0794f4693e3693b5a0c8d377a52b1f0b)] -> id: password]
+2017-10-08 17:56:29 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:56:29 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (6956efadc7d939d10222b776251324a8)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (6956efadc7d939d10222b776251324a8)] -> id: username]
+2017-10-08 17:56:30 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (6956efadc7d939d10222b776251324a8)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (6956efadc7d939d10222b776251324a8)] -> id: password]
+2017-10-08 17:59:10 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 17:59:10 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (c2de2e6f1ba5fe07f4600854c4a34caa)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (c2de2e6f1ba5fe07f4600854c4a34caa)] -> id: username]
+2017-10-08 17:59:11 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (c2de2e6f1ba5fe07f4600854c4a34caa)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (c2de2e6f1ba5fe07f4600854c4a34caa)] -> id: password]
+2017-10-08 18:04:25 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 18:04:26 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (7f3e62c78eada745fdc37587045adbb6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (7f3e62c78eada745fdc37587045adbb6)] -> id: username]
+2017-10-08 18:04:26 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (7f3e62c78eada745fdc37587045adbb6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (7f3e62c78eada745fdc37587045adbb6)] -> id: password]
+2017-10-08 18:08:17 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 18:08:17 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (f8eaedcddd52bb8f9dfa97f75ed6b3ad)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (f8eaedcddd52bb8f9dfa97f75ed6b3ad)] -> id: username]
+2017-10-08 18:08:18 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (f8eaedcddd52bb8f9dfa97f75ed6b3ad)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (f8eaedcddd52bb8f9dfa97f75ed6b3ad)] -> id: password]
+2017-10-08 18:10:08 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 18:10:08 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (9006b9be1372bda228c5478b8a4b6f5c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (9006b9be1372bda228c5478b8a4b6f5c)] -> id: username]
+2017-10-08 18:10:09 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (9006b9be1372bda228c5478b8a4b6f5c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (9006b9be1372bda228c5478b8a4b6f5c)] -> id: password]
+2017-10-08 18:14:55 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 18:14:55 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (dd7fa6060a107004fa346b656ab0ab03)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (dd7fa6060a107004fa346b656ab0ab03)] -> id: username]
+2017-10-08 18:14:56 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (dd7fa6060a107004fa346b656ab0ab03)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (dd7fa6060a107004fa346b656ab0ab03)] -> id: password]
+2017-10-08 18:18:09 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 18:18:09 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (553fe00fbe5884616d95a73253cb3798)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (553fe00fbe5884616d95a73253cb3798)] -> id: username]
+2017-10-08 18:18:10 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (553fe00fbe5884616d95a73253cb3798)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (553fe00fbe5884616d95a73253cb3798)] -> id: password]
+2017-10-08 18:24:45 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 18:24:45 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (73cd5b0bbc9f05aa3f60522490c18121)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (73cd5b0bbc9f05aa3f60522490c18121)] -> id: username]
+2017-10-08 18:24:46 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (73cd5b0bbc9f05aa3f60522490c18121)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (73cd5b0bbc9f05aa3f60522490c18121)] -> id: password]
+2017-10-08 18:31:17 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 18:31:17 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (5ef2e5dd8256800739091f0e833badfb)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (5ef2e5dd8256800739091f0e833badfb)] -> id: username]
+2017-10-08 18:31:18 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (5ef2e5dd8256800739091f0e833badfb)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (5ef2e5dd8256800739091f0e833badfb)] -> id: password]
+2017-10-08 21:51:59 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 21:51:59 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (60ab0f559a26d217145bd0e1ca509ea8)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (60ab0f559a26d217145bd0e1ca509ea8)] -> id: username]
+2017-10-08 21:52:00 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (60ab0f559a26d217145bd0e1ca509ea8)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (60ab0f559a26d217145bd0e1ca509ea8)] -> id: password]
+2017-10-08 21:59:49 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 21:59:49 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (029fcede2662e0d3b4eefeb8cbbf93e6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (029fcede2662e0d3b4eefeb8cbbf93e6)] -> id: username]
+2017-10-08 21:59:50 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (029fcede2662e0d3b4eefeb8cbbf93e6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (029fcede2662e0d3b4eefeb8cbbf93e6)] -> id: password]
+2017-10-08 22:03:12 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 22:03:12 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (6ecc1dc81ebce741dfa13c0b2a65fd49)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (6ecc1dc81ebce741dfa13c0b2a65fd49)] -> id: username]
+2017-10-08 22:03:12 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (6ecc1dc81ebce741dfa13c0b2a65fd49)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (6ecc1dc81ebce741dfa13c0b2a65fd49)] -> id: password]
+2017-10-08 22:06:21 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 22:06:21 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (110341c0037d62d95439f9628958cd8d)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (110341c0037d62d95439f9628958cd8d)] -> id: username]
+2017-10-08 22:06:22 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (110341c0037d62d95439f9628958cd8d)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (110341c0037d62d95439f9628958cd8d)] -> id: password]
+2017-10-08 22:12:04 INFO  VerifyTestCaseTestStepFunctionality:42 - *****Starting AUT adding test********
+2017-10-08 22:12:05 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (caf5d1ac03dea2747ebf44f0bc5f6612)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (caf5d1ac03dea2747ebf44f0bc5f6612)] -> id: username]
+2017-10-08 22:12:05 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (caf5d1ac03dea2747ebf44f0bc5f6612)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (caf5d1ac03dea2747ebf44f0bc5f6612)] -> id: password]
+2017-10-08 22:12:32 INFO  VerifyTestCaseTestStepFunctionality:52 - *****Ending AUT adding test********
+2017-10-08 22:18:32 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 22:18:32 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (9cd89e6355d91757f113793630635cdd)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (9cd89e6355d91757f113793630635cdd)] -> id: username]
+2017-10-08 22:18:33 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (9cd89e6355d91757f113793630635cdd)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (9cd89e6355d91757f113793630635cdd)] -> id: password]
+2017-10-08 22:35:46 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 22:35:46 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (eedcba8a4f4fe8df423d67e71fe8d49c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (eedcba8a4f4fe8df423d67e71fe8d49c)] -> id: username]
+2017-10-08 22:35:46 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (eedcba8a4f4fe8df423d67e71fe8d49c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (eedcba8a4f4fe8df423d67e71fe8d49c)] -> id: password]
+2017-10-08 22:41:47 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 22:41:47 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (75deaefe462e419c60ef6310b88e3521)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (75deaefe462e419c60ef6310b88e3521)] -> id: username]
+2017-10-08 22:41:48 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (75deaefe462e419c60ef6310b88e3521)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (75deaefe462e419c60ef6310b88e3521)] -> id: password]
+2017-10-08 22:44:30 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 22:44:30 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (58c30584a9214921ce2d68c8bc2251d3)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (58c30584a9214921ce2d68c8bc2251d3)] -> id: username]
+2017-10-08 22:44:31 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (58c30584a9214921ce2d68c8bc2251d3)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (58c30584a9214921ce2d68c8bc2251d3)] -> id: password]
+2017-10-08 22:47:04 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-08 22:47:04 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (7a3a9725da61f31fd90cadaad4985539)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (7a3a9725da61f31fd90cadaad4985539)] -> id: username]
+2017-10-08 22:47:05 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (7a3a9725da61f31fd90cadaad4985539)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (7a3a9725da61f31fd90cadaad4985539)] -> id: password]
+2017-10-10 10:04:11 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 10:04:12 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (149524f2e340cfe17ec44993b2a1aa6a)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (149524f2e340cfe17ec44993b2a1aa6a)] -> id: username]
+2017-10-10 10:04:12 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (149524f2e340cfe17ec44993b2a1aa6a)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (149524f2e340cfe17ec44993b2a1aa6a)] -> id: password]
+2017-10-10 10:08:12 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 10:08:12 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (36d476913fb57dc7eb4009deab8a4e3c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (36d476913fb57dc7eb4009deab8a4e3c)] -> id: username]
+2017-10-10 10:08:13 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (36d476913fb57dc7eb4009deab8a4e3c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (36d476913fb57dc7eb4009deab8a4e3c)] -> id: password]
+2017-10-10 10:12:13 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 10:12:14 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (d5d32152602cdc139f9b74f0380493e6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d5d32152602cdc139f9b74f0380493e6)] -> id: username]
+2017-10-10 10:12:14 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (d5d32152602cdc139f9b74f0380493e6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (d5d32152602cdc139f9b74f0380493e6)] -> id: password]
+2017-10-10 10:24:27 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 10:24:27 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (972eec44242e33044396ba66684036c6)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (972eec44242e33044396ba66684036c6)] -> id: username]
+2017-10-10 10:24:28 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (972eec44242e33044396ba66684036c6)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (972eec44242e33044396ba66684036c6)] -> id: password]
+2017-10-10 10:29:14 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 10:29:14 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (6af50af5c4e0fc563ff02a4741e4cddc)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (6af50af5c4e0fc563ff02a4741e4cddc)] -> id: username]
+2017-10-10 10:29:14 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (6af50af5c4e0fc563ff02a4741e4cddc)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (6af50af5c4e0fc563ff02a4741e4cddc)] -> id: password]
+2017-10-10 10:37:58 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 10:37:58 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (9dd8ec6b7b7e54eb152dd2aea8f5e9ba)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (9dd8ec6b7b7e54eb152dd2aea8f5e9ba)] -> id: username]
+2017-10-10 10:37:59 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (9dd8ec6b7b7e54eb152dd2aea8f5e9ba)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (9dd8ec6b7b7e54eb152dd2aea8f5e9ba)] -> id: password]
+2017-10-10 11:05:29 INFO  VerifyTestCaseTestStepFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 11:05:29 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (1219d0c3f8336278c5df64b2183fb0b3)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (1219d0c3f8336278c5df64b2183fb0b3)] -> id: username]
+2017-10-10 11:05:29 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (1219d0c3f8336278c5df64b2183fb0b3)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (1219d0c3f8336278c5df64b2183fb0b3)] -> id: password]
+2017-10-10 11:27:41 INFO  TC01_VerifyTestCaseFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 11:27:41 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (996b9d69359c2d9a7efe0bce9b6e0683)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (996b9d69359c2d9a7efe0bce9b6e0683)] -> id: username]
+2017-10-10 11:27:42 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (996b9d69359c2d9a7efe0bce9b6e0683)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (996b9d69359c2d9a7efe0bce9b6e0683)] -> id: password]
+2017-10-10 11:38:00 INFO  TC01_VerifyTestCaseFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 11:38:00 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (e0c9d828cd2330dc0bbcaa61fa964b98)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (e0c9d828cd2330dc0bbcaa61fa964b98)] -> id: username]
+2017-10-10 11:38:01 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (e0c9d828cd2330dc0bbcaa61fa964b98)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (e0c9d828cd2330dc0bbcaa61fa964b98)] -> id: password]
+2017-10-10 11:40:35 INFO  TC01_VerifyTestCaseFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 11:42:35 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-10-10 11:43:35 INFO  TC01_VerifyTestCaseFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 11:45:36 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-10-10 11:46:36 INFO  TC01_VerifyTestCaseFunctionality:44 - *****Starting AUT adding test********
+2017-10-10 11:48:36 INFO  HomePage:100 - Entered username is Proxy element for: DefaultElementLocator 'By.id: username' and the onject is Proxy element for: DefaultElementLocator 'By.id: username'
+2017-10-10 11:58:52 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (7bf71b6cdeae0ba97ff0fb08941d3086)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (7bf71b6cdeae0ba97ff0fb08941d3086)] -> id: username]
+2017-10-10 11:58:53 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (7bf71b6cdeae0ba97ff0fb08941d3086)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (7bf71b6cdeae0ba97ff0fb08941d3086)] -> id: password]
+2017-10-10 12:01:09 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (d401ccfa0b697e9c34bb1c7550a97e47)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d401ccfa0b697e9c34bb1c7550a97e47)] -> id: username]
+2017-10-10 12:01:11 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (d401ccfa0b697e9c34bb1c7550a97e47)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (d401ccfa0b697e9c34bb1c7550a97e47)] -> id: password]
+2017-10-10 12:01:27 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:06:36 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (d3ec0d8b4392a88664b2ed31b6dc927c)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (d3ec0d8b4392a88664b2ed31b6dc927c)] -> id: username]
+2017-10-10 12:06:37 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (d3ec0d8b4392a88664b2ed31b6dc927c)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (d3ec0d8b4392a88664b2ed31b6dc927c)] -> id: password]
+2017-10-10 12:06:53 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:09:20 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:09:25 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:09:27 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:18:09 INFO  HomePage:100 - Entered username is [[ChromeDriver: chrome on XP (609939ac5c55b82eb5c2a14b62a7bba2)] -> id: username] and the onject is [[ChromeDriver: chrome on XP (609939ac5c55b82eb5c2a14b62a7bba2)] -> id: username]
+2017-10-10 12:18:09 INFO  HomePage:102 - Entered password  is [[ChromeDriver: chrome on XP (609939ac5c55b82eb5c2a14b62a7bba2)] -> id: password] and the onject is [[ChromeDriver: chrome on XP (609939ac5c55b82eb5c2a14b62a7bba2)] -> id: password]
+2017-10-10 12:18:19 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:19:19 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:20:19 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
+2017-10-10 12:21:19 INFO  TC01_VerifyTestCaseFunctionality:47 - *****Starting AUT adding test********
