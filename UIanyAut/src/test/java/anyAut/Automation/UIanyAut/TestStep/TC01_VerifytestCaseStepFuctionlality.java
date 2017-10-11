@@ -29,18 +29,17 @@ public class TC01_VerifytestCaseStepFuctionlality extends ReusbleFunctions{
 			
 		@DataProvider(name="AUT")
 		public String[][] getTestData(){
-			String[][] testRecords=getData("TestAut.xlsx","TC005");
+			String[][] testRecords=getData("TestAut.xlsx","TC004");
 			return testRecords;
 		}
 		
 		
-		@BeforeTest
+		@BeforeClass
 		public void setUp()
 		{
 		callURL();
 		
-		homepage.logintoApplication("tapansri@gmail.com", "orange17");
-				}
+		}
 		@Test(dataProvider="AUT")
 		public void VerifyaddTestStepFunctionality(String username,String pwd,String w3,String w4,String tsID,String desc,String bik,String w6,String desc1,String tdenter) throws Exception 
 		{

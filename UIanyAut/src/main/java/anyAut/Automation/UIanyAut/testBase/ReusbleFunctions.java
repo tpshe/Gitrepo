@@ -42,7 +42,7 @@ public class ReusbleFunctions {
 		log.info("Navigating to " + url);
 		driver.get(url);
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	}
 
 	public void selectBrowser(String browser) {
